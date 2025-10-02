@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Onel
 
-<!--
-**crisom935/crisom935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Ingeniero en formación | 💻 Desarrollador | 📊 Apasionado por la tecnología y la automatización
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Sobre mí
+- 🎓 Actualmente estudiando **Ingeniería** y mejorando cada día en el mundo del desarrollo.
+- 🔭 Interesado en **DevOps, programación, automatización** y buenas prácticas de software.
+- 📚 Aprendiendo constantemente sobre **arquitecturas modernas, cloud y seguridad**.
+- ⚡ Me encanta resolver problemas con **código limpio y eficiente**.
+
+---
+
+### 🛠️ Tecnologías & Herramientas
+- **Lenguajes:** Python | JavaScript | Java | SQL  
+- **Frameworks:** React | Node.js | Express  
+- **DevOps & Cloud:** Docker | GitHub Actions | Linux | AWS (básico)  
+- **Otros:** Git | MySQL | APIs REST  
+
+---
+
+### 📈 Mis estadísticas en GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crisom935&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crisom935&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Cómo contactarme
+- ✉️ Email: **tu_correo@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+
+---
+
+✨ _“El código es como el humor: cuando tienes que explicarlo, deja de ser bueno.”_  
