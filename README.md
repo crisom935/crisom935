@@ -27,9 +27,8 @@
 ---
 
 ### 📫 Cómo contactarme
-- ✉️ Email: **tu_correo@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🐦 Twitter: [@tuusuario](https://twitter.com/tuusuario)
+- ✉️ Email: **onealovand@gmail.com**  
+- 💼 LinkedIn: [Cristopher Oneal Ovando Morales](https://www.linkedin.com/in/cristopher-oneal-ovando-morales-751681338/)  
 
 ---
 
