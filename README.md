@@ -13,9 +13,8 @@
 ---
 
 ### 🛠️ Tecnologías & Herramientas
-- **Lenguajes:** Python | JavaScript | Java | SQL  
-- **Frameworks:** React | Node.js | Express  
-- **DevOps & Cloud:** Docker | GitHub Actions | Linux | AWS (básico)  
+- **Lenguajes:** PHP | JavaScript | CSS | HTML5
+- **DevOps & Cloud:**  GitHub | Python | PowerShell | (básico)  
 - **Otros:** Git | MySQL | APIs REST  
 
 ---
